@@ -4,7 +4,7 @@
 Purpose, scope, and current implementation status.
 
 ## Architecture
-Describe implemented components and their relationship. Separate current state from proposals.
+Describe implemented components and their relationships. Separate current state from proposals.
 
 ## Technology stack
 | Area | Technology | Version / evidence |
